@@ -3,8 +3,7 @@ This repository contains supplementary materials relating to the manuscript titl
 
 # Citation
 
-[Jun Sang Yu, Louis-Félix Nothias, Mingxun Wang, Dong Hyun Kim, Pieter C. Dorrestein, Kyo Bin Kang, Hye Hyun Yoo. Tandem Mass Spectrometry Molecular Networking as a Powerful and Efficient Tool for Drug Metabolism Studies. Anal. Chem. 2022, 94, 1456−1464.]
-(https://doi.org/10.1021/acs.analchem.1c04925?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as)
+[Jun Sang Yu, Louis-Félix Nothias, Mingxun Wang, Dong Hyun Kim, Pieter C. Dorrestein, Kyo Bin Kang, Hye Hyun Yoo. Tandem Mass Spectrometry Molecular Networking as a Powerful and Efficient Tool for Drug Metabolism Studies. Anal. Chem. 2022, 94, 1456−1464.](https://doi.org/10.1021/acs.analchem.1c04925?urlappend=%3Fref%3DPDF&jav=VoR&rel=cite-as)
 
 # Folders
 
